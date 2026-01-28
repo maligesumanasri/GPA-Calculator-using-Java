@@ -14,3 +14,4 @@ Technologies Used:
 - Java SE 8+
 - Swing (JFrame, JPanel, JTextField, JOptionPane, etc.)
 - HashMap for storing login credentials
+<img width="323" height="243" alt="image" src="https://github.com/user-attachments/assets/30058d5d-d665-4efd-a7c9-c4dd96f30d6e" />
